@@ -23,4 +23,4 @@ Usted puede copiar, modificar, distribuir y realizar el trabajo, incluso con fin
 
 * [Tablero en Trello] https://trello.com/b/9HQg37cM/investigaci%C3%B3n2dps
 * [Diseño Mock-up] https://www.figma.com/proto/RcfkRuC1v1JIcosdlhnyAK/Untitled?node-id=2%3A3&scaling=scale-down&page-id=0%3A1
-* [Video ] 
+* [Video ] https://youtu.be/0xKCiBhqGwA 
