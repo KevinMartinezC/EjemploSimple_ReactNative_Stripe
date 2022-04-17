@@ -8,7 +8,7 @@
 * [Trello] https://trello.com/es - Planificación de las actividades del equipo de desarrollo.
 * [Figma] https://www.figma.com/?fuid= - Herramienta para creación de mockups.
 
-## Miembros del equipo de desarrollo DPS441 -Proyecto SaborcitoSV
+## Miembros del equipo de desarrollo DPS441 -Investigación 2
 
 * **Kevin Adonay Martínez Cerón** 
 * **Stanley Adonay Mejia Amaya** 
